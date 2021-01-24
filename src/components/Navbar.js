@@ -32,7 +32,7 @@ class Navbar extends Component {
           </div>
         </div>
         <h2>
-          Mohan Kumar <mark>Paluru</mark>
+          <mark>MOHAN</mark>
         </h2>
         <p>Python Developer</p>
         <ul>
